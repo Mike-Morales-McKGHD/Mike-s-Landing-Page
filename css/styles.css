@@ -1,0 +1,121 @@
+.navbar {
+  padding: 3rem;
+}
+
+
+body{
+    font-family: "Roboto";
+    background-color: #fff;
+    color:#03A9F4;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-top-width: 5px;
+    border-color: gray;
+    width: 10%;
+}
+
+/* About Me */
+.profile-pic{
+    margin-top: 20px;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+
+.profile{
+    text-align: center;
+    padding: 1rem;
+    margin: 3rem;
+}
+
+h3{
+    text-align: center;
+    font-weight: bolder;
+    padding: 5%;
+    color: #112C38;
+}
+
+.brief-bio{
+    padding-top: 5rem;
+}
+
+/* Skills */
+
+.skills{
+    text-align: center;
+    margin: 3rem;
+    padding: 1rem;
+}
+
+.skill-pic1{
+    height: 5rem;
+        
+}
+
+.skill-pic2{
+    height: 5rem;
+      
+    
+}
+
+.skill-pic3{
+    height: 5rem;
+      
+    
+}
+
+.skill-row{
+    border: solid;
+    padding: 5%;
+    
+}
+
+h5{
+    text-align: center;
+    font-weight: bolder;
+    padding: 5%;
+}
+
+/* Portfolio */
+
+.my-portfolio{
+    margin: 3rem;
+    padding: 1rem;
+}
+
+.gallery-pics{
+    margin: 10px 0 10px 0;
+}
+
+/* COntact Me */
+
+.contact-me{
+    margin: 3rem;
+    padding: 1rem;
+}
+
+.address-icon{
+    width: 1.5rem;
+    margin: 5px;
+    color: #fff;
+}
+
+.email-icon{
+    width: 1.5rem;
+    margin: 5px;
+    color: #fff;
+}
+
+.name-icon{
+    width: 1.5rem;
+    margin: 5px;
+    color: #fff;
+}
+
+.subject-icon{
+    width: 1.5rem;
+    margin: 5px;
+    color: #fff;
+}
